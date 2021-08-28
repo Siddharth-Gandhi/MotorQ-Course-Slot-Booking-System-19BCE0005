@@ -31,3 +31,12 @@ or
 - [x] university object to keep track of both students and courses
 
 - [x] create and upload to github
+
+# Further improvements:
+
+- Time slot clashing detection
+- Web/Mobile interface
+- Can track `registration_open` (which is the registration status) with timestamps
+- Database for data to persist & more efficient queries
+  - We can map the structures of the classes to database schemas (say for MySQL)
+- Better handling of edge cases (like if it is a valid student/course)
