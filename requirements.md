@@ -1,4 +1,4 @@
-[x] CLI interface, maybe web if time permits
+- [ ] CLI interface, maybe web if time permits
 
 [x] class -> subject, capacity, time slot, registered_students[]: student, waiting_queue[] : student
 
